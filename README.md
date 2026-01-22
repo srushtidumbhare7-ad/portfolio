@@ -76,14 +76,14 @@ Shows the hero section along with the fixed navigation bar and social icons.
 ### Projects Section
 Displays the project cards with images, technology stack, and live/code links.
 
-![Projects Section](screenshots/portfolioprojectssection.png)
+![Projects Section](screenshots/portfolioprojectsection.png)
 
 ---
 
 ### Responsive View
 Demonstrates the responsive layout on smaller screen sizes (mobile view).
 
-![Responsive View](screenshots/responsiveness.jpeg)
+![Responsive View](screenshots/responsiveness.png)
 
 ---
 
