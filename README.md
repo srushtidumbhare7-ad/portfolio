@@ -1,4 +1,3 @@
-
 # 🌐 Portfolio — Srushti Dumbhare
 
 Java Full Stack Developer | Web Developer | Problem Solver
@@ -9,7 +8,7 @@ It showcases my education, skills, projects, internships, and certificates in a 
 ---
 
 ## 🚀 Live Website
-👉(https://srushtidumbhare7-ad.github.io/portfolio/)
+👉 https://srushtidumbhare7-ad.github.io/portfolio/
 
 ---
 
@@ -56,7 +55,35 @@ portfolio/
 │ ├── teachnook.jpg
 │ ├── tata.pdf
 │ └── deloitte.pdf
+│
+├── screenshots/
+│ ├── home-navbar.png
+│ ├── projects-section.png
+│ └── responsive-view.png
 
+
+---
+
+## 📸 Screenshots
+
+### Home Section with Navigation Bar
+Shows the hero section along with the fixed navigation bar and social icons.
+
+![Home Section](screenshots/portfoliohome.png)
+
+---
+
+### Projects Section
+Displays the project cards with images, technology stack, and live/code links.
+
+![Projects Section](screenshots/portfolioprojectssection.png)
+
+---
+
+### Responsive View
+Demonstrates the responsive layout on smaller screen sizes (mobile view).
+
+![Responsive View](screenshots/responsiveness.jpeg)
 
 ---
 
@@ -92,12 +119,5 @@ Each project includes:
 
 ---
 
-## 📬 Contact
-- **GitHub:** https://github.com/srushtidumbhare7-ad  
-- **LinkedIn:** https://linkedin.com/in/srushti-dumbhare  
-- **Email:** srushtidumbhare@gmail.com  
-
----
-
 ## 📄 License
-This project is open-source and created for learning, practice, and portfolio purposes.
+This project is open-source and created for learning, practice,and portfolio purposes.
