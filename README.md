@@ -16,7 +16,7 @@ https://srushtidumbhare7-ad.github.io/portfolio/
 ![About Screenshot](screenshots/aboutsection.png)
 
 ### 🧩 Projects
-![Projects Screenshot](screenshots/portfolioprojectsectionprojects.png)
+![Projects Screenshot](screenshots/portfolioprojectsection.png)
 
 ### Contact
 ![Contact Section Screenshot](screenshots/contactsection.png)
