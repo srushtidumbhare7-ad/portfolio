@@ -19,7 +19,7 @@ https://srushtidumbhare7-ad.github.io/portfolio/
 ![Projects Screenshot](screenshots/portfolioprojectsectionprojects.png)
 
 ### Contact
-![Experience Screenshot](screenshots/contactsection.png)
+![Contact Section Screenshot](screenshots/contactsection.png)
 
 ---
 
@@ -54,14 +54,13 @@ https://srushtidumbhare7-ad.github.io/portfolio/
 
 ## 📂 Folder Structure
 
-```plaintext
 portfolio/
 │
+├── certificates/
+├── images/
+├── screenshots/
+│
+├── README.md
 ├── index.html
 ├── style.css
-├── assets/
-│   ├── screenshots/
-│   ├── images/
-│   ├── certificates/
-│   └── resume/
 └── README.md
